@@ -1,0 +1,849 @@
+28/10/24->Monday
+
+No Lecture
+
+
+
+.....................................................................................................................................
+22/10/25->Tuesday
+1.Bootstrap
+
+.......................................................................................................................................
+21/10/24->Monday
+
+1.Background Blend mode
+2.Text Align
+3.Columns
+4.Animation
+
+..............................................................................................................................................
+
+
+
+...............................................................................................................................................
+18/10/24->Friday
+1.Font size
+rem most used
+
+
+2.CSS Hover(Selector)
+3.CSS Important
+4.CSS Margin
+...............................................................................................................................................
+15/10/24->Tuesday
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        div{
+             background: #ab5151; 
+            /* background-color: rgb(255, 255, 255); */
+            color: #ffb300;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+
+    </style>
+</body>
+
+<div>
+    wfejhhht wehtgkj wekgjwnlttj
+</div>
+</html>
+
+2.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-image: url("image5.jpg");
+            background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <h1>background Image</h1>
+   
+</body>
+</html>
+
+3.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Difference between <P>,<div>,<span>-<-block tags->
+    
+    <p style="background-color: aqua;">sjhffjgkhggggggggkl</p>
+
+    <br>
+
+    <!--Inline tags are <span>,<Mark>-->
+    <span style="background-color: aqua;">sjhffjgkhggggggggkl</span>
+</body>
+</html>
+
+4.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img{
+            float: right;
+        }
+        img{
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <img src="image5.jpg" height="100px" width="100px">
+    <img src="image2.jpg" height="100px" width="100px">
+
+    <p>
+        Lorem Ipsum is MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Lorem Ipsum is MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Lorem Ipsum is MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Lorem Ipsum is MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Lorem Ipsum is MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Lorem Ipsum is MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Lorem Ipsum is MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+</body>
+</html>
+
+........................................................................................................................
+14/10/24->Monday
+1.Iframe
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+        <h1>IFrame is very impotant to take different pages like youtube|Map|Facebook|Instagram etc</h1>
+        <h1>Watch the below video from share embeded</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/54a1nHZ2Wec?si=QJQ7tSCO6Tp_yQLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       <h1>check the Address location from share embeded</h1>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30274.80447386657!2d73.8935393!3d18.46777355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2ea8a75f1ed4f%3A0xcc6015e2f426fa4a!2sKondhwa%2C%20Pune%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1728888800615!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    
+    </p>
+</body>
+</html>
+
+2.CSS(Case Cadding Style Shit)
+HTML->is document
+CSS->is Style Sheet->used to design html tags
+->->HTML is used to structure the content of a web page and css used to style and visually lay out the content on a web page.
+->Html create the webpage and display the content on webpage 
+And CSS is use to design purpose
+
+Ways To insert CSS
+1.Inline CSS
+Apply CSS on a single Line or element
+<p style="color:red">Welcome</P>
+Code:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="color:red;">Welcom</h1>
+    <h2 style="color: white;background-color: black;">Good Afternoon</h2>
+        <p style="color: rgb(204, 120, 9)">Have a nice day</p>
+</body>
+</html>
+
+2.Internal CSS
+Code:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--CSS-->
+    <style>
+        h1{
+            color: red;
+        }
+        h2{
+            color: white;
+            background-color: black;
+        }
+
+        p{
+            color: aqua;
+        }
+
+    </style>
+</head>
+<body>
+    <!--2.Internal CSS-->
+    <!--HTML-->
+    <h1>Welcome</h1>
+    <h2>Good Afternoon</h2>
+    <p>Have a nice day</p>
+</body>
+</html>
+
+3.External CSS
+Code:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+    <!--Mostly used in project is external-->
+    <!--Best Way is External becouse of css and html files are seperated-->
+    <h1>Welcome</h1>
+    <h2>Good Afternoon</h2>
+    <p>Have a nice day</p>
+</body>
+</html>
+
+CSS Selectors
+1.Element Selectors->done in inline,internal,external
+2.Id Selectors->Id call in CSS using #Id Must be unique
+Code:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #a1{
+            color: red;
+        }
+        #a2{
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <!--we can add multiple classes but it is not possible in Id-->
+<h1 id="a1">welcome</h1>
+<h2 id="a2">Good Afternoon</h2>
+    
+</body>
+</html>
+
+3.Class Selectors->Class call in CSS using dot(.),Class can be used with multiple time
+->Id selector us used to style specific element while class selector styles multiple element
+Code:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .a1{
+            color: red;
+        }
+        .a2{
+            background-color: aqua;
+        }
+    </style>
+</body>
+<!--we can add multiple classes but it is not possible in Id-->
+<h1 class="a1 a2">welcome</h1>
+<h2 class="a2">Good Afternoon</h2>
+</html>
+
+4.Universal Selectors 
+->It select all the elements on the pages
+<style>
+*
+{
+  color:red;
+}
+</style>
+
+<h1>Cascading Stylesheet</h1>
+<p>This is heading</p>
+
+Code:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!--To apply same font on all web sites-->
+    <style>
+       
+        *{
+            font-family: 'Courier New', Courier, monospace;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Welcome</h1>
+    <h2>Good Afternoon</h2>
+    <p>Have a nice day</p>
+</body>
+</html>
+
+5.Group Selectors(Most important -VVIP)
+-It select all the elements with the same style definations
+-Grouping selector is used to minimize the code
+-Commas are used to seperate each selector in grouping 
+
+Code:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <!--We can add group of all selectors like class,Id,Universal,element-->
+    <style>
+       
+        h1,h2,h3,h4,h5,h6,p{
+            font-family: 'Courier New', Courier, monospace;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1>Welcome</h1>
+    <h2>Good Afternoon</h2>
+    <p>Have a nice day</p>
+</body>
+</html>
+..................................................................................................................
+
+11/10/24->Friday
+FieldSet
+Abbr tage
+HTML -> insert & delete
+div tag->height-100% width-Automatic
+...........................................................................................................................
+10/10/24->Thrusday
+Description List or Defnition List
+1.dl
+2.dt
+3.dd
+
+ <dl>
+        <dt>HTML</dt>
+        <dd>Hyper Text Markup Language</dd>
+        
+        <dt>CSS</dt>
+        <dd>Cascading Stylesheet </dd>
+
+        <dt>Js</dt>
+        <dd>javaScript</dd>
+    </dl>
+
+HTML Form
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form>
+
+        <!-- <input type="text" placeholder="Enter your first name"/>
+        <input type="text"placeholder="Enter your last name"/> -->
+
+        <!-- <label for="fn">First Name</label>
+        <input type="text"id="fn"><br><br>
+
+        <label for="ln">Last Name</label>
+        <input type="text"id="ln"><br><br>
+
+        <label for="em">Enter the email</label>
+        <input type="email"id="em"><br><br>
+
+        <label for="pd">Enter the password</label>
+        <input type="password"id="pd"><br><br>
+
+        <label for="s">Skills</label>
+        <input type="checkbox"id="s"><br><br>
+
+        <label for="g">Gender</label>
+        <input type="radio"id="g"><br><br>
+
+        <label for="no">Enter the number</label>
+        <input type="number"id="no"><br><br>
+
+        <label for="dt">Enter the date</label>
+        <input type="date"id="dt"><br><br>
+
+        <input type="time"><br><br>
+
+
+        <input type="color"><br><br>
+
+        <input type="button" value="Login"><br><br>
+
+        <input type="reset"> -->
+
+        <!--Text can contains single row
+        <input type="text">
+
+        Text Area to write multiple lines-->
+        <!-- <textarea rows="10" cols="50"placeholder="Address"></textarea> -->
+
+
+        <select>
+            <option selected disabled>select state</option>
+            <option value="abc">abc</option> <!--If in case data not stored into database otherwise you can go with next option-->
+            <option value="qwe">qwe</option>
+            <option>ddf</option>
+            <option>her</option>
+            <option>wre</option>
+
+        </select>
+        
+        
+
+
+
+    </form>
+</body>
+</html>
+
+................................................................................................................................................................................................................
+
+Button
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="abc.jsp">
+
+        <input type="text" placeholder="First Name"><br><br>
+        <input type="text" placeholder="Last Name"><br><br>
+
+        <button type="button">Submit</button> <!--action will never work-->
+
+        <button type="submit">Submit</button>  <!--for button type must be submit becouse -->
+
+
+
+
+
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+09/10/24->Wed
+-----------------------------------------------------------------------------------------------------
+10/10/24->thrusday
+task-1:
+Q1. Create ordered list
+1. Item
+      A. sub item
+      B. sub item
+2. Item
+      a. sub item
+      b. sub item
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Ordered List-->
+    
+    <ol type="1">
+        <li>Item</li>
+        <ol type="A">
+            <li>sub item</li>
+            <li>sub item</li>
+        </ol>
+        <li>Item</li>
+        <ol type="a">
+            <li>sub item</li>
+            <li>sub item</li>
+        </ol>
+    </ol>
+</body>
+</html>
+***************************************************************************************************
+task-2:
+Q.Time Table
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="4" style="text-align: center;">
+        <caption><b>TIME TABLE</b></caption>
+        <tr>
+            <th>Day/Period</th>
+            <th> I <br>9:30-10:20</th>
+            <th> II <br>10:20-11:10</th>
+            <th> III <br>11:10-12:00</th>
+            <th>12:00-12:40</th>
+            <th> IV <br>12:40-1:30</th>
+            <th> V <br>1:30-2:20</th>
+            <th> VI <br>2:20-3:10</th>
+            <th> VII <br>3:10-4:00</th>
+
+        </tr>
+
+        <tr>
+            <th>Monday</th>
+            <td>Eng</td>
+            <td>Mat</td>
+            <td>che</td>
+            <th rowspan="6">L <br>U <br>N <br>C <br>H </th>
+            <td colspan="3">LAB</td>
+            <td>Phy</td>
+        </tr>
+        <tr>
+            <th>Tuesday</th>
+            <td colspan="3">LAB</td>
+
+            <td>Eng</td>
+            <td>Che</td>
+            <td>Mat</td>
+            <td>SPORTS</td>
+        </tr>
+
+        <tr>
+            <th>Wednesday</th>
+            <td>Mat</td>
+            <td>phy</td>
+            <td>Eng</td>
+            <td>Che</td>
+            <td colspan="3">LIBRARY</td>          
+        </tr>
+
+        <tr>
+            <th>Thrusday</th>
+            <td>Phy</td>
+            <td>Eng</td>
+            <td>che</td>
+            <td colspan="3">LAB</td> 
+            <td>Mat</td>         
+        </tr>
+
+        <tr>
+            <th>Friday</th>
+            <td colspan="3">LAB</td> 
+            <td>Mat</td>
+            <td>Che</td>
+            <td>Eng</td>  
+            <td>Phy</td>         
+        </tr>
+
+        <tr>
+            <th>Saturday</th>
+            <td>Eng</td>
+            <td>Che</td>
+            <td>Mat</td>
+            <td colspan="3">SEMINAR</td> 
+            <td>SPORTS</td>         
+        </tr>
+
+
+    </table>
+</body>
+</html>
+-----------------------------------------------------------------------------------------------------
+
+Rowspan/Columnspan
+Questions
+1.What is table?
+
+HTML Image tag
+1.Used to display image on the web pages.
+ 2.Closing tags are not used in html image element.
+eg:<img src="sample.jpg" alt="image"/>
+
+src:It is necessary attribute that describe the source or path of the image.
+alt:alternate text for image, If it cannot be dislayed.
+
+HTML Lists
+Types:
+I.Ordered List
+-->Types:
+1.Number(1,2,......)
+2.Alphabet(A-Z,a-z)
+3.Roman(i,ii Or I II)
+
+II.Unordered List
+1.disc
+2.circle
+3.square
+III.Description Or Definition list
+................................................................................................................................................................................
+Task:
+
+create a page with links like 
+Home,About,Contact.
+
+1.Home->My Home Page
+2.about->About Us Page(Tell me about yourself)
+3.Contact->Name,Email,Contact,Address
+
+
+................................................................................................................................................
+08/10/24->TUE
+nbsp->Non brakable space
+
+Text formatting
+1.<b>--Physical tag-->--taget to font-->most used tag
+2.<strong>--logical tag-->it inform browser about logical importance
+3.<i>
+4.<u>
+
+Code:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+
+    <br><br><br>
+    <b>Bold - - - Welcome to HTML</b><br>
+    <strong>Strong - - - Welcome to HTML</strong><br>
+
+    <i>Italy - - - Welcome to HTML</i><br>
+    <u>Underline - - - Welcome to HTML</u>
+
+    <h1>H<sub>2</sub>SO<sub>4</sub></h1>
+   <h1> 10<sup>th</sup>
+    12<sup>th</sup></h1>
+
+
+    <p>
+        Lorem Ipsum is<mark>MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow</mark>simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </p>
+
+    <b><u><i><mark>Welcome</mark></i></u></b><br>
+
+    <a href="welcome.html">Click Here</a>
+
+    <br><br>
+    <a href="welcome.html"target="_blank">Click Here</a>
+</body>
+</html>
+
+
+HTML pre tag
+1.It specify pre formatted text.
+2.fixed-width font
+3.displays in Courier font
+4.it maintains both space and break line
+
+Code:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <pre>
+
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+    
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+    
+        It has survived not only five centuries, but also the leap into electronic typesetting, 
+    remaining essentially unchanged. It was popularised in the 1960s with the release of 
+    Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software 
+    like Aldus PageMaker including versions of Lorem Ipsum.
+
+</pre>
+    
+</body>
+</html>
+
+HTML <sub> tag
+1.HTML <sub> tag is termed as subscript tag and which is used to define subscript text.
+eg: H<sub>2</sub>SO<sub>4</sub>
+
+
+2.HTML <sup> tag
+HTML <sup> tag is termed as a superscript tag which is used to define superscript text.
+eg: 10<sup>th</sup>
+       12<sup>th</sup>
+
+MARK tag
+MARK TAG WHICH IS UES TO HILIGHTS THE TEXT AND BY DEFALUT IT'S fromatted text colour is yellow
+
+HTML Anchor
+
+If there is no file then put # on file name becouse it will never refresh it
+<a href="#">Home</a>-->Page never refresh
+<a href="">About</a>-->page will be refresh
+
+1.html anchor tag defines hyperlink that links one page to another page.
+   it will open in same tab.
+eg: <a href="second.html">Click fro second page</a>
+
+2.If you want to open that link to another page then we can use target attribute of <a> tag.
+   It will open in new tab.
+eg: <a href="second.html" target="blank">Click
+
+
+HTML Table
+
+Display data in tabular form (row*column).
+there can be many columns in a row.
+
+<table>
+  ..................
+</table>
+
+Code:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>101</td>
+                <td>Abc</td>
+                <td>abc@gmail.com</td>
+                <td>pune</td>
+                
+            </tr>
+
+            <tr>
+                <td>102</td>
+                <td>Pqr</td>
+                <td>pqr@gmail.com</td>
+                <td>Mumbai</td>
+                
+            </tr>
+
+            <tr>
+                <td>103</td>
+                <td>Xyz</td>
+                <td>xyz@gmail.com</td>
+                <td>Nashik</td>
+                
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Address</th>
+            </tr>
+        </tfoot>
+
+
+    </table>
+</body>
+</html>
